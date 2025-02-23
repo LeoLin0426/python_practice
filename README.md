@@ -1,2 +1,1 @@
-# python_practice
-for practice
+# Just for practice
